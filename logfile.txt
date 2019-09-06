@@ -1,0 +1,2 @@
+Sep. 04, 2019 2:19:37 PM module5.View start
+INFO: Starting the Movie Database application.
